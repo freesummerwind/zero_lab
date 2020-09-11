@@ -6,7 +6,7 @@
 #include <iostream>
 
 void hello() {
-    std::cout << "Hello, World!" << '\n';
+    std::cout << "Hello, World!\n";
 }
 
 #endif // INCLUDE_HEADER_HPP_
